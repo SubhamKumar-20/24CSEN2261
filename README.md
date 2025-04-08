@@ -4,6 +4,8 @@
 [Algorithms_and_sorting.py](Algorithms_and_sorting.py)  
 [Fibonacci.py](Fibonacci.py)  
 [Factorials.py](Factorials.py)  
+[Selection_Sort.py](Selection_Sort.py)  
+
 
 
 
