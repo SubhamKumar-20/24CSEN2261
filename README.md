@@ -5,8 +5,4 @@
 [Fibonacci.py](Fibonacci.py)  
 [Factorials.py](Factorials.py)  
 [Selection_Sort.py](Selection_Sort.py)  
-
-
-
-
-
+[Selection_Sort.py](Selection_Sort.py)  
